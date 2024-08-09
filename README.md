@@ -29,17 +29,16 @@ Note: UI colour changes depending on the player's class.
 
 ### Human
 
-![human](https://github.com/user-attachments/assets/da13e5ee-1487-4257-8e9c-266119771654)
+![human](https://github.com/user-attachments/assets/23143e4b-05c3-4c6a-83d2-ebe0d758d8f4)
 
 ### SCP
 
-![scp](https://github.com/user-attachments/assets/14851236-dbe2-4ae1-ac14-69fef350efc7)
+![scp](https://github.com/user-attachments/assets/2678ca8b-a6cd-4943-a97b-6d14d6c42b5a)
 
 ### Tutorial
 
-![tutorial](https://github.com/user-attachments/assets/b646e6f5-f8cb-48d4-9e65-fcc65540a26c)
-
+![tutorial](https://github.com/user-attachments/assets/8cdd8ebd-19df-4f24-bea2-889ddd5047cc)
 
 ### Spectator
 
-![spec](https://github.com/user-attachments/assets/4822512a-89fc-4089-b7b4-ca1bee4033eb)
+![spectator](https://github.com/user-attachments/assets/d8370390-3bd2-4d92-8ba3-461c466b3f17)
